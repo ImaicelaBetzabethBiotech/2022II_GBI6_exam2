@@ -37,35 +37,3 @@ Escriba una tabla con las características de su computador
 |    LAPTOP-77TLDJLO     | AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz | 12,0 GB (9,94 GB utilizable) | 9D0A64CB-69A9-4DE7-BC83-E556E532A7AD | 00356-02263-20909-AAOEM | Sistema operativo de 64 bits, procesador x64 | Compatibilidad con entrada táctil con 10 puntos táctiles |
 
 
-
-# Ejercicio 1 [1.5 puntos]
-Inserte la captura de pantalla del curso PANDAS de Kaggle (Certificado y evidencia de avance de la página de Kaggle)
-
-# Ejercicio 2 [1.5 puntos]
-Inserte la captura de pantalla del curso VISUALIZACIÓN de Kaggle (Certificado y evidencia de avance de la página de Kaggle)
-
-
-# Ejercicio 3 [3 puntos]
-En su carpeta de examen tiene el documento id_coati.txt donde se encuentran los identificadores de accesión que debe usar para descargar información. Cree el módulo coati.py con las siguientes tres funciones y sus respectivos docstring :
-
-i. fasta_downloader: para cargar id_coati.txt en id_coatiy descargar en formato genbank la información correspondiente a los identificadores de accesión usando el ENTREZ de Biopythony se guardar en coati y en coati.gb.
-
-ii. alignment: para que el algoritmo extraiga solamente las secuencias de la variable coati y realice un alineamiento usando clustalW. El resultado debe ser coati.aln y coati.dnd que deben guardarse en su carpeta de trabajo.
-
-iii tree: para que realice el cálculo de las distancias utilizando coati.aln y finalmente que imprima en la pantalla el árbol filogenético y guarde en su carpeta de trabajo el arbol como coati_phylotree.pdf
-
-iv. Cargue el módulo coati e imprima docstring de cada función.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
